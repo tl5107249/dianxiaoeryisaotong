@@ -12,7 +12,7 @@
                     <span style="font-size: 14px;">联系电话：13833614296</span><span style="font-size: 14px; background-color: #FF0000; color: #FFFFFF;">点击拨打</span><span style="font-size: 14px;">&nbsp;</span>
                 </section>
                 <section style="max-width: 100%;">
-                    <span style="font-size: 14px;">供电所报修： 5107249 &nbsp; &nbsp;<span style="color: #FFFFFF; background-color: #FF0000;">点击拨打</span>&nbsp;</span><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp;</span>
+                    <span style="font-size: 14px;">供电所报修： 5107249 &nbsp; &nbsp;<span style="color: #FFFFFF; background-color: #FF0000;"><a href="tel:13785637223">拨打</a></span>&nbsp;</span><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp; &nbsp;</span>
                 </section>
             </section>
             <section class="" style="max-width: 100%; width: 101px;">
